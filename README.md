@@ -1,5 +1,3 @@
-# Yuangp01
-
 <h1 align="center">Hi 👋, I'm Yuan Gonzalez</h1>
 <h3 align="center">Passionate Developer & Cloud Enthusiast</h3>
 

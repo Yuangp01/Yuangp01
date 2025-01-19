@@ -1,5 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-
 <h1 align="center">Hi 👋, I'm Yuan Gonzalez</h1>
 <h3 align="center">Passionate Developer & Cloud Enthusiast</h3>
 
@@ -8,6 +6,7 @@
 </p>
 
 ---
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 ### 🌟 About Me:
 - 🌱 I’m currently learning **AWS** to deepen my cloud computing expertise.

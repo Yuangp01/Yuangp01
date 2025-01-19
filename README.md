@@ -11,11 +11,11 @@
 ---
 
 ### 🌟 About Me:
-- 🌱 Currently learning **AWS** to deepen my cloud computing expertise.
-- 💬 Ask me about **Cloud Computing**.
+- 🌱 I’m currently learning **AWS** to deepen my cloud computing expertise.
+- 💬 Feel free to ask me about **Cloud Computing**.
 - 🌍 I enjoy traveling and discovering new cultures.
-- 📧 Reach me at **yuan.gonzalez001@gmail.com**.
-- 🌐 Portfolio: [My Projects](https://yuangp01.wixsite.com/my-site-26)
+- 📧 You can reach me at **yuan.gonzalez001@gmail.com**.
+- 🌐 Check out my portfolio: [My Projects](https://yuangp01.wixsite.com/my-site-26)
 
 ---
 
@@ -67,4 +67,5 @@
 ---
 
 ### ⚡ Fun Fact:
-I love traveling and exploring new cultures.
+I’m passionate about traveling and exploring new cultures, combining my love for technology and adventure!
+

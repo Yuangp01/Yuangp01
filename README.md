@@ -3,17 +3,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 ---
 
-<h3 align="center">Passionate Developer & Cloud Enthusiast</h3>
+<h3 align="center">Passionate Data Analyst & Business Intelligence Enthusiast</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! I enjoy creating impactful projects and exploring cloud technologies.
+  Welcome to my GitHub profile! I'm passionate about data analytics and enjoy building projects that transform raw data into actionable insights. Here you'll find dashboards, data analysis projects, and business intelligence solutions developed using SQL, Power BI, Python, and Azure.
 </p>
 
 ---
 
 ### 🌟 About Me:
-- 🌱 I’m currently learning **AWS** to deepen my cloud computing expertise.
-- 💬 Feel free to ask me about **Cloud Computing**.
+- 📈 I’m continuously improving my skills in **Data Analytics, Business Intelligence, and Data Visualization** through hands-on projects.
+- 💬 Feel free to ask me about **SQL, Power BI, Excel, DAX, or Data Analytics**.
 - 🌍 I enjoy traveling and discovering new cultures.
 - 📧 You can reach me at **yuan.gonzalez001@gmail.com**.
 - 🌐 Check out my portfolio: [My Projects](https://yuangp01.wixsite.com/my-site-26)

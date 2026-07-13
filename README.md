@@ -24,45 +24,55 @@
 
 <p align="left">
 
-  <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="80" height="80"/>
-  </a>
+<!-- SQL -->
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="70" height="70"/>
+</a>
 
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="80" height="80"/>
-  </a>
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="70" height="70"/>
+</a>
 
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" width="80" height="80"/>
-  </a>
+<!-- DAX -->
+<a href="https://learn.microsoft.com/power-bi/" target="_blank">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="70" height="70"/>
+</a>
 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  </a>
+<!-- Power Query -->
+<a href="https://learn.microsoft.com/power-query/" target="_blank">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="70" height="70"/>
+</a>
 
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="80" height="80"/>
-  </a>
+<!-- Excel -->
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="70" height="70"/>
+</a>
 
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="80" height="80"/>
-  </a>
+<!-- Python -->
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70"/>
+</a>
 
-  <!-- Azure -->
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="80" height="80"/>
-  </a>
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70" height="70"/>
+</a>
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80"/>
-  </a>
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70" height="70"/>
+</a>
+
+<!-- Azure -->
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="70" height="70"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="70" height="70"/>
+</a>
 
 </p>
 

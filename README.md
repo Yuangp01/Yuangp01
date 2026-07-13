@@ -34,16 +34,6 @@
 <img src="https://img.icons8.com/color/96/power-bi.png" width="70" height="70"/>
 </a>
 
-<!-- DAX -->
-<a href="https://learn.microsoft.com/power-bi/" target="_blank">
-<img src="https://img.icons8.com/color/96/power-bi.png" width="70" height="70"/>
-</a>
-
-<!-- Power Query -->
-<a href="https://learn.microsoft.com/power-query/" target="_blank">
-<img src="https://img.icons8.com/color/96/power-bi.png" width="70" height="70"/>
-</a>
-
 <!-- Excel -->
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="70" height="70"/>

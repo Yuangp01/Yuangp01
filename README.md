@@ -1,167 +1,65 @@
-<style>
-  .header-container {
-    width: 100%;
-    padding: 3rem 2rem;
-    text-align: center;
-    background: linear-gradient(135deg, #f8f7f4 0%, #ffffff 100%);
-    border-radius: 12px;
-    border: 1px solid #e5e5e5;
-  }
-  
-  .greeting-emoji {
-    display: inline-block;
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-    animation: wave 1.5s ease-in-out infinite;
-    transform-origin: 70% 70%;
-  }
-  
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(14deg); }
-    75% { transform: rotate(-8deg); }
-  }
-  
-  .name-main {
-    font-size: 2.8rem;
-    font-weight: 500;
-    color: #0b0b0b;
-    margin: 0.5rem 0;
-    letter-spacing: -0.5px;
-    animation: slideDown 0.8s ease-out;
-  }
-  
-  @keyframes slideDown {
-    from { opacity: 0; transform: translateY(-20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  
-  .title-accent {
-    position: relative;
-    font-size: 1.3rem;
-    color: #185FA5;
-    margin: 1rem 0 0 0;
-    font-weight: 500;
-    animation: slideUp 0.8s ease-out 0.2s backwards;
-  }
-  
-  .title-accent::after {
-    content: '';
-    position: absolute;
-    bottom: -8px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 0;
-    height: 2px;
-    background: #378ADD;
-    border-radius: 1px;
-    animation: expandWidth 0.6s ease-out 0.6s forwards;
-  }
-  
-  @keyframes slideUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  
-  @keyframes expandWidth {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-  
-  .description {
-    font-size: 1rem;
-    color: #666;
-    line-height: 1.6;
-    margin: 2rem auto 0;
-    max-width: 580px;
-    animation: fadeIn 0.8s ease-out 0.4s backwards;
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  
-  .stats-container {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    margin-top: 2.5rem;
-    flex-wrap: wrap;
-    animation: fadeIn 0.8s ease-out 0.6s backwards;
-  }
-  
-  .stat-item {
-    text-align: center;
-    padding: 0.75rem 1.5rem;
-    border-radius: 8px;
-    background: #f5f5f5;
-    border: 1px solid #e5e5e5;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    min-width: 120px;
-  }
-  
-  .stat-item:hover {
-    border-color: #ccc;
-    background: #efefef;
-    transform: translateY(-3px);
-  }
-  
-  .stat-value {
-    font-size: 1.5rem;
-    font-weight: 500;
-    color: #378ADD;
-    display: block;
-  }
-  
-  .stat-label {
-    font-size: 0.85rem;
-    color: #666;
-    margin-top: 0.25rem;
-  }
-  
-  .divider {
-    height: 1px;
-    background: #e5e5e5;
-    margin: 2rem auto;
-    width: 80px;
-    animation: expandWidth 0.8s ease-out 0.8s backwards;
-  }
-  
-  @media (max-width: 600px) {
-    .header-container { padding: 2rem 1.5rem; }
-    .name-main { font-size: 2rem; }
-    .title-accent { font-size: 1.1rem; }
-    .stats-container { gap: 1rem; }
-    .stat-item { min-width: 100px; padding: 0.6rem 1rem; }
-  }
-</style>
+<div align="center">
 
-<div class="header-container">
-  <div class="greeting-emoji">👋</div>
-  <h1 class="name-main">Hi, I'm Yuan Gonzalez</h1>
-  <div class="divider"></div>
-  <h2 class="title-accent">Data Analyst & Business Intelligence Enthusiast</h2>
-  <p class="description">
-    Transforming raw data into actionable insights through intuitive dashboards, advanced analytics, and intelligent business solutions.
-  </p>
-  <div class="stats-container">
-    <div class="stat-item">
-      <span class="stat-value">📊</span>
-      <span class="stat-label">Analytics</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-value">💾</span>
-      <span class="stat-label">SQL Expert</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-value">📈</span>
-      <span class="stat-label">Power BI</span>
-    </div>
-    <div class="stat-item">
-      <span class="stat-value">🐍</span>
-      <span class="stat-label">Python</span>
-    </div>
-  </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:00A6D6,100:7B61FF&height=180&section=header&text=Yuan%20Gonzalez&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+#
+
+<div align="center">
+
+# Passionate Data Analyst & Business Intelligence Enthusiast
+
+Welcome to my GitHub profile! I'm passionate about data analytics and enjoy building projects that transform raw data into actionable insights. Here you'll find dashboards, data analysis projects, and business intelligence solutions developed using SQL, Power BI, Python, and Azure.
+
 </div>
+
+---
+
+##  About Me:
+
+<div align="left">
+
+- 📈 **Continuous Learning** - Improving my skills in Data Analytics, Business Intelligence, and Data Visualization
+- 💬 **Open to Questions** - Ask me about SQL, Power BI, Excel, DAX, or Data Analytics
+- 🌎 **Travel Enthusiast** - Love traveling and discovering new cultures
+- 📧 **Email** - [yuan.gonzalez001@gmail.com](mailto:yuan.gonzalez001@gmail.com)
+- 🌐 **Portfolio** - [My Projects](https://yuangp01.wixsite.com/my-site-26)
+
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+<a href="https://www.mysql.com/">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="70" height="70"/>
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70"/>
+</a>
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="70" height="70"/>
+</a>
+<a href="https://www.microsoft.com/microsoft-365/excel">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="70" height="70"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70"/>
+</a>
+<a href="https://numpy.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="70" height="70"/>
+</a>
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="70" height="70"/>
+</a>
+<a href="https://azure.microsoft.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="70" height="70"/>
+</a>
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70"/>
+</a>
+
+</div>
+
+<div align="center">

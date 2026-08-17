@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:00A6D6,100:7B61FF&height=180&section=header&text=Yuan%20Gonzalez&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=Yuan%20Gonzalez&fontSize=48&fontColor=000000&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descAlignY=58&descSize=17&descColor=000000&animation=fadeIn" width="100%"/>
+
 <div align="center">
+
 Welcome to my GitHub profile! I'm passionate about data analytics and enjoy building projects that transform raw data into actionable insights. Here you'll find dashboards, data analysis projects, and business intelligence solutions developed using SQL, Power BI, Python, and Azure.
 
 </div>
 
 ---
 
-##  About Me:
+## About Me:
 
 <div align="left">
 

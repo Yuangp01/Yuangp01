@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about data analytics and enjoy buil
 - 💬 **Open to Questions** - Ask me about SQL, Power BI, Excel, DAX, or Data Analytics
 - 🌎 **Travel Enthusiast** - Love traveling and discovering new cultures
 - 📧 **Email** - [yuan.gonzalez001@gmail.com](mailto:yuan.gonzalez001@gmail.com)
-- 🌐 **Portfolio** - [My Projects](yuangp01.github.io)
+- 🌐 **Portfolio** - [My Projects](https://yuangp01.github.io/)
 
 </div>
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about data analytics and enjoy buil
 
 <div align="center">
 
-<a href="https://www.sql.org/">
+<a href="https://www.Postgresql.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70"/>
 </a>
 <a href="https://powerbi.microsoft.com/">

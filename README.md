@@ -2,12 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:00A6D6,100:7B61FF&height=180&section=header&text=Yuan%20Gonzalez&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-#
-
 <div align="center">
-
-# Passionate Data Analyst & Business Intelligence Enthusiast
-
 Welcome to my GitHub profile! I'm passionate about data analytics and enjoy building projects that transform raw data into actionable insights. Here you'll find dashboards, data analysis projects, and business intelligence solutions developed using SQL, Power BI, Python, and Azure.
 
 </div>
@@ -22,20 +17,17 @@ Welcome to my GitHub profile! I'm passionate about data analytics and enjoy buil
 - 💬 **Open to Questions** - Ask me about SQL, Power BI, Excel, DAX, or Data Analytics
 - 🌎 **Travel Enthusiast** - Love traveling and discovering new cultures
 - 📧 **Email** - [yuan.gonzalez001@gmail.com](mailto:yuan.gonzalez001@gmail.com)
-- 🌐 **Portfolio** - [My Projects](https://yuangp01.wixsite.com/my-site-26)
+- 🌐 **Portfolio** - [My Projects](yuangp01.github.io)
 
 </div>
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <div align="center">
 
-<a href="https://www.mysql.com/">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="70" height="70"/>
-</a>
-<a href="https://www.postgresql.org/">
+<a href="https://www.sql.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70"/>
 </a>
 <a href="https://powerbi.microsoft.com/">

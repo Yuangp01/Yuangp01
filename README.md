@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Yuan%20Gonzalez&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descAlignY=58&descSize=17&descColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=180&section=header&text=Yuan%20Gonzalez&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descAlignY=58&descSize=17&descColor=FFFFFF" width="100%"/>
 
 </div>
 

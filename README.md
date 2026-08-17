@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about data analytics and enjoy buil
 <div align="left">
 
 - 📈 **Continuous Learning** - Improving my skills in Data Analytics, Business Intelligence, and Data Visualization
-- 💬 **Open to Questions** - Ask me about SQL, Power BI, Excel, DAX, or Data Analytics
+- 💬 **Open to Questions** - Ask me about SQL, Power BI, Excel, or Data Analytics
 - 🌎 **Travel Enthusiast** - Love traveling and discovering new cultures
 - 📧 **Email** - [yuan.gonzalez001@gmail.com](mailto:yuan.gonzalez001@gmail.com)
 - 🌐 **Portfolio** - [My Projects](https://yuangp01.github.io/)
